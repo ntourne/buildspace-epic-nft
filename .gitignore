@@ -1,0 +1,11 @@
+# contracts
+contracts/.env
+contracts/coverage
+contracts/coverage.json
+contracts/typechain
+contracts/node_modules
+contracts/cache
+contracts/artifacts
+
+# web
+web/node_modules

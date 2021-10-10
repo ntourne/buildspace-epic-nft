@@ -1,0 +1,21 @@
+## Rinkeby
+
+MyEpicNFT contract v1:
+0xDDFE515b8a9a414f5aED421bb543bd3938441db9
+
+MyEpicNFT contract v2:
+0xCe885FeBEb918d3e17d82C2bEDa5b944E1dc4F3D
+
+MyEpicNFT contract v3 (dynamic JSON base64):
+0x02FA7fC005F6aca64dd13f7315AbD7F76646eA7b
+0x0a62d6568573B7DfC679E42F7A7f1a6CEA0836bd
+
+MyEpicNFT contract v4 (added events):
+0xfD302F6eCf16b9478e1D6F2FF33b9E71dA2F3E1f
+
+MyEpicNFT contract v5 (manage total supply):
+0x8ae260fdF8E5ffE7A31F756f93Dd88FD4d110c82
+
+## BSC Testnet
+
+0x628198f7c2C393b9dfaA7ec7299A2Bb29e65461B
